@@ -1,5 +1,9 @@
 # Aritmetica
 
+ patch-1
+
+Hola
+
 los temas elegidos son en base al último examen de este semestre
 Mientras que el código de aritmética no da a conocer como podemos sumar o restar distintos caracteres del mismo vector, todo esto dependiendo de su tamaño.
 
@@ -16,3 +20,4 @@ E. En dicho archivo main, define una macro y una constante que interactúe con l
 de cada clase.
 
 Braulio
+ main
